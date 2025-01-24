@@ -1,1 +1,1 @@
-This is a Amazon UI Clone.
+This is an Amazon UI Clone.
